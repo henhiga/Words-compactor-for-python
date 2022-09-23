@@ -1,5 +1,5 @@
 # Words compactor for python for my university project
-## Words compactor for python for example:  
+## Words compactor for python, for example:  
 input:  
 >Dear Sally  
 Please please do it it would please  
